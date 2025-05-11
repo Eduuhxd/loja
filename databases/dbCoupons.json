@@ -1,0 +1,9 @@
+{
+    "tri": {
+        "name": "tri",
+        "discount": 15,
+        "stock": 1,
+        "role": "none",
+        "minimumPurchase": "11"
+    }
+}

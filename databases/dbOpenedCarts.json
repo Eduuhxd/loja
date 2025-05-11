@@ -1,0 +1,92 @@
+{
+    "1223167006346448957": {
+        "page": "configuring-products-home",
+        "products": {
+            "p-test": {
+                "messageId": "1223167010150678569",
+                "productId": "test",
+                "productName": "Não configurado(a).",
+                "productPrice": 0.01,
+                "productStock": 1,
+                "purchasePrice": 0.01,
+                "purchaseAmount": 1
+            }
+        },
+        "purchaseCoupon": {
+            "couponId": "none",
+            "couponDiscount": "none"
+        }
+    },
+    "1223192408834048020": {
+        "page": "configuring-products-home",
+        "products": {
+            "p-test": {
+                "messageId": "1223192413540057088",
+                "productId": "test",
+                "productName": "Não configurado(a).",
+                "productPrice": 0.01,
+                "productStock": 1,
+                "purchasePrice": 0.01,
+                "purchaseAmount": 1
+            }
+        },
+        "purchaseCoupon": {
+            "couponId": "none",
+            "couponDiscount": "none"
+        }
+    },
+    "1223192820299595827": {
+        "page": "configuring-products-end",
+        "products": {
+            "p-test": {
+                "messageId": "1223192824036724736",
+                "productId": "test",
+                "productName": "Não configurado(a).",
+                "productPrice": 0.01,
+                "productStock": 1,
+                "purchasePrice": 0.01,
+                "purchaseAmount": 1
+            }
+        },
+        "purchaseCoupon": {
+            "couponId": "none",
+            "couponDiscount": "none"
+        }
+    },
+    "1223194158869774388": {
+        "page": "configuring-products-end",
+        "products": {
+            "p-test": {
+                "messageId": "1223194163051237407",
+                "productId": "test",
+                "productName": "Não configurado(a).",
+                "productPrice": 0.01,
+                "productStock": 1,
+                "purchasePrice": 0.01,
+                "purchaseAmount": 1
+            }
+        },
+        "purchaseCoupon": {
+            "couponId": "none",
+            "couponDiscount": "none"
+        }
+    },
+    "1229149650989092935": {
+        "page": "configuring-products-end",
+        "products": {
+            "p-mensal": {
+                "messageId": "1229149653308543076",
+                "productId": "mensal",
+                "productName": "NITRO GAMING MENSAL",
+                "productPrice": 2.02,
+                "productStock": 14,
+                "purchasePrice": 2.02,
+                "purchaseAmount": 1
+            }
+        },
+        "purchaseCoupon": {
+            "couponId": "none",
+            "couponDiscount": "none"
+        }
+    }
+}

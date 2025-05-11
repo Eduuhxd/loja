@@ -1,0 +1,412 @@
+{
+    "mensal": {
+        "id": "mensal",
+        "name": "NITRO GAMING MENSAL",
+        "description": "✅ NÃO PODE TER TIDO NITRO\n✅ FUNCIONA EM CONTA RECÉM CRIADA\n✅ +2 BOOST",
+        "thumbUrl": "none",
+        "bannerUrl": "https://media.discordapp.net/attachments/1218769588150468648/1223030498524401695/Picsart_24-03-22_16-08-09-678.png?ex=66185ee9&is=6605e9e9&hm=76bd1f69d6a686895be02dad1d0cfdc82a86cdc00c3f24f80597cedfeba3e62d&=&format=webp&quality=lossless&width=1025&height=475",
+        "color": "none",
+        "price": "2.02",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !"
+        ],
+        "notificationUsers": {},
+        "creationData": "2024-03-29T08:58:32.208Z",
+        "msgLocalization": {
+            "channelId": "1218769643750166648",
+            "messageId": "1226633944875663510"
+        },
+        "incomeTotal": 10.1,
+        "sellsTotal": 5
+    },
+    "trimensal": {
+        "id": "trimensal",
+        "name": "NITRO GAMING TRIMENSAL",
+        "description": "✅ NÃO PODE TER TIDO NITRO\n✅ PRECISA DE CONTA +30D\n✅ PRECISA DE ATIVAÇÃO",
+        "thumbUrl": "none",
+        "bannerUrl": "https://media.discordapp.net/attachments/1218769588150468648/1223030498524401695/Picsart_24-03-22_16-08-09-678.png?ex=66185ee9&is=6605e9e9&hm=76bd1f69d6a686895be02dad1d0cfdc82a86cdc00c3f24f80597cedfeba3e62d&=&format=webp&quality=lossless&width=1025&height=475",
+        "color": "none",
+        "price": "5.50",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [
+            "https://discord.com/billing/promotions/qBaZ3Zc8aJyGnEgn9yvXAmeU",
+            "https://discord.com/billing/promotions/w7HrUt8gPMyxjEnG5nVtnbsj",
+            "https://discord.com/billing/promotions/PDRkmfRWKjrXDkwykScua47e",
+            "https://discord.com/billing/promotions/vPwEJFx2GUsbXP8gzcCuRm4n"
+        ],
+        "notificationUsers": {},
+        "creationData": "2024-03-29T09:26:31.958Z",
+        "msgLocalization": {
+            "channelId": "1218769649412603934",
+            "messageId": "1223720538640224367"
+        },
+        "incomeTotal": 38.5,
+        "sellsTotal": 7
+    },
+    "ggmax": {
+        "id": "ggmax",
+        "name": "CONTA GGMAX FULL",
+        "description": "✅ CONTA 100% VERIFICADA\n✅ PRONTA PRA USO",
+        "thumbUrl": "none",
+        "bannerUrl": "https://cdn.discordapp.com/attachments/1218769588150468648/1223335179075063958/bannerggmax.png?ex=66197aab&is=660705ab&hm=424cfeba02b0761f744e452f2ca06925cd2fd0395de0655ab5cf78f636b0e661&",
+        "color": "none",
+        "price": "25",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [
+            "***CONTA GGMAX***\n**Email:** ```livanigabriel@gmail.com```\n**Senha**\n```gabriel0404@M```"
+        ],
+        "notificationUsers": {},
+        "creationData": "2024-03-29T18:08:37.912Z",
+        "msgLocalization": {
+            "channelId": "1223332651243536545",
+            "messageId": "1223335520000540702"
+        }
+    },
+    "atv": {
+        "id": "atv",
+        "name": "ATIVAÇÃO NITRO",
+        "description": "✅ PRECISA PASSAR SUA CONTA\n✅ ENVIAR NITRO PELA DM\n✅ TRANSMITO TELA",
+        "thumbUrl": "none",
+        "bannerUrl": "https://media.discordapp.net/attachments/1218769588150468648/1223030361156616252/Picsart_24-03-16_18-08-09-873.png?ex=66185ec8&is=6605e9c8&hm=0b0368b3088807de414b6f2e19513868873ed9a718f9713d1ead4604e3e96675&=&format=webp&quality=lossless&width=494&height=228",
+        "color": "none",
+        "price": "1.51",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !",
+            "ABRA TICKET !"
+        ],
+        "notificationUsers": {},
+        "creationData": "2024-03-29T19:26:17.372Z",
+        "msgLocalization": {
+            "channelId": "1218769658602061975",
+            "messageId": "1223369813401796799"
+        },
+        "incomeTotal": 15.1,
+        "sellsTotal": 10
+    },
+    "30d": {
+        "id": "30d",
+        "name": "CONTA VIRGEM +30d",
+        "description": "✅ USADO PARA RESGATAR O NITRO TRIMENSAL\n✅ CONTAS OUTLOOKS\n✅ TROCAR SENHA E EMAIL APENAS 1x NO DIA!",
+        "thumbUrl": "none",
+        "bannerUrl": "https://images-ext-1.discordapp.net/external/ikwX5GgrB80jrGy5RG4-D0FluJF0M0lcWi3mfNDjzu8/%3Fformat%3Dwebp/https/images-ext-1.discordapp.net/external/bLW7hv_YHrKUW5UIAv-JM6uCo7IkK-a0MJ-KGUUT4_w/%253Fformat%253Dwebp/https/images-ext-2.discordapp.net/external/Dzp0fVx4vPevZsYLd3W434FwVLpvsC3bPqzP_KSL7TQ/https/cdn.ggmax.com.br/images/c12676fa4f711fef4a1ef487b7491ac2.lg.webp?format=webp&width=583&height=269",
+        "color": "none",
+        "price": "1.51",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET",
+            "ABRA TICKET"
+        ],
+        "notificationUsers": {},
+        "creationData": "2024-03-29T20:30:32.849Z",
+        "msgLocalization": {
+            "channelId": "1218769659931660319",
+            "messageId": "1223369301944176670"
+        },
+        "incomeTotal": 1.51,
+        "sellsTotal": 1
+    },
+    "lara": {
+        "id": "lara",
+        "name": "LARA MERCADO PAGO",
+        "description": "💳   LARA MERCADO PAGO 💳 \n\n🧐  Oque é Lara? e uma conta ( laranja pros raul kk ) Conta com nome de outros pra voce usar pra sua loja no discord ou em site etc aonde voce quiser vender, funciona normalmente pix cartão virtual eu não garanto porque tem alguns dispositivo quem vai e outros não!\n\n✅  Pix Ativo!\n✅  Funcionando Normalmente\n✅  Dando Pra Pegar Acess Token\n✅  Não precisa de Apk!",
+        "thumbUrl": "none",
+        "bannerUrl": "https://images-ext-1.discordapp.net/external/2FUrNcgZ_EqzgGKGS7E1wbo6ekOFFuZRGJSkiXPFZFg/%3Fformat%3Dwebp%26width%3D645%26height%3D363/https/images-ext-1.discordapp.net/external/MBTDFR-kpQ6jcpDRJs7CaEgdu42ntuAcUGIFiGRXiT8/https/imgs.search.brave.com/1ojKRb8XmPdGSuIs3y8_Eq4bdJt_wq99nSsUw1czOdc/rs%253Afit%253A860%253A0%253A0/g%253Ace/aHR0cHM6Ly9pbWcu/b2xoYXJkaWdpdGFs/LmNvbS5ici93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMy8wNy9t/ZXJjYWRvLXBhZ28t/Y29udGEtY2FydGFv/LnBuZw",
+        "color": "none",
+        "price": "35",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [
+            "# :g_mercadopago: ・LARAS TYME\n\n\nOBS: QUANDO COMEÇA O METODO FAÇA GRAVANDO!\n**1 - ABAIXE O APP DEPENDENDO DO DISPOSITIVO, RECOMENDO QUE LOGE NO CELULAR PRIMEIRO!**\n**2 - INICIA SESSÃO E COLOQUE O GMAIL**\n**3 - EM BAIXO VAI APARECER CONCLUA ETAPAS VOCE CONCLUI**\n**4 - VAI APARECER PRA CRIAR CONTA VOCE CRIA CONTA PESSOAL!**\n**5 - VALIDA O GMAIL **\n**6 - NA PARTE DE VALIDAR INDENTIDADE SO APERTA EM VALIDAR INDETINDADE QUE JA VAI NA HORA! E DPS SO FAZE O RESTO**\n \n\n___AVISO - FAZ O METODO DE ENTRADA GRAVANDO! CASO FAÇA ERRO E PREJUDICAR A CONTA NÃO TEM REEMBOLSO!___\n___DEPOIS QUE LOGA TIRE PRINT DA INICIAL E MANDA FRASE E NOTA NO FEEDBACK___\n\n``ENTRADA DE DISPOSITIVOS``\nComputador Pelo Site Ou Emulador e segue o método!\nAndroid Pelo Aplicativo E segue o método!\nIos Pelo Site e segue o método!\nobs: se tentar loga na Lara no Ios e tentar pelo app vai prejudicar a Lara e vai pedir facial e não tem reembolso! Nem troca!\n\n( metodo de entrada feito pelo tyme o unico )"
+        ],
+        "notificationUsers": {},
+        "creationData": "2024-03-30T00:39:39.673Z",
+        "msgLocalization": {
+            "channelId": "1220063076917973043",
+            "messageId": "1225151215701327892"
+        }
+    },
+    "hbo": {
+        "id": "hbo",
+        "name": "HBO MAX NFA",
+        "description": "✅ TEMPO IDETERMINADO\n✅ CONTA COMPARTILHADA\n✅ 1 DIA DE GARANTIA",
+        "thumbUrl": "none",
+        "bannerUrl": "https://media.discordapp.net/attachments/1215337249953022043/1222973031270449223/hbomaxprt.png?ex=66182964&is=6605b464&hm=7868b8441016e22da7b9f465f8b294b9ed8297d984be0d89482516f9df522deb&=&format=webp&quality=lossless",
+        "color": "none",
+        "price": "0.50",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [],
+        "notificationUsers": {},
+        "creationData": "2024-03-30T06:13:05.453Z",
+        "msgLocalization": {
+            "channelId": "1218769667909353472",
+            "messageId": "1223517716921712661"
+        },
+        "incomeTotal": 2.5,
+        "sellsTotal": 5
+    },
+    "dev": {
+        "id": "dev",
+        "name": "INSIGNA BADGE DEVELOPER",
+        "description": "✅ MÉTODO FUNCIONAL E TESTADO\n✅ BASTA SEGUIR O PASSO A PASSO\n✅ NÃO DOU SUPORTE!",
+        "thumbUrl": "none",
+        "bannerUrl": "none",
+        "color": "none",
+        "price": "3",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [],
+        "notificationUsers": {},
+        "creationData": "2024-03-31T18:30:08.292Z",
+        "msgLocalization": {
+            "channelId": "1218769674393616474",
+            "messageId": "1227161655348297770"
+        }
+    },
+    "spotify": {
+        "id": "spotify",
+        "name": "SPOTIFY PREMIUM MENSAL",
+        "description": "✅ NO SEU EMAIL OU UMA CONTA \n✅ 1 MÊS DE GARANTIA\n✅ NÃO CAI",
+        "thumbUrl": "none",
+        "bannerUrl": "https://media.discordapp.net/attachments/1126478523499028520/1129353394516131931/f96f869c-ce59-4450-938a-c9235e9d2c6d_2.png?ex=661907cf&is=660692cf&hm=b794b04651eb2879f8866c3942b8f9cbae5c1856d48f83ab02e52ef944f616a0&format=webp&quality=lossless&width=1026&height=474&",
+        "color": "none",
+        "price": "5",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [
+            "ABRA TICKET E ENVIE SEU EMAIL/SENHA (OU APENAS PEÇA O LOGIN) OBS: NÃO PODE TER TIDO ASSINATURA NA CONTA!",
+            "ABRA TICKET E ENVIE SEU EMAIL/SENHA (OU APENAS PEÇA O LOGIN) OBS: NÃO PODE TER TIDO ASSINATURA NA CONTA!",
+            "ABRA TICKET E ENVIE SEU EMAIL/SENHA (OU APENAS PEÇA O LOGIN) OBS: NÃO PODE TER TIDO ASSINATURA NA CONTA!",
+            "ABRA TICKET E ENVIE SEU EMAIL/SENHA (OU APENAS PEÇA O LOGIN) OBS: NÃO PODE TER TIDO ASSINATURA NA CONTA!",
+            "ABRA TICKET E ENVIE SEU EMAIL/SENHA (OU APENAS PEÇA O LOGIN) OBS: NÃO PODE TER TIDO ASSINATURA NA CONTA!",
+            "ABRA TICKET E ENVIE SEU EMAIL/SENHA (OU APENAS PEÇA O LOGIN) OBS: NÃO PODE TER TIDO ASSINATURA NA CONTA!",
+            "ABRA TICKET E ENVIE SEU EMAIL/SENHA (OU APENAS PEÇA O LOGIN) OBS: NÃO PODE TER TIDO ASSINATURA NA CONTA!",
+            "ABRA TICKET E ENVIE SEU EMAIL/SENHA (OU APENAS PEÇA O LOGIN) OBS: NÃO PODE TER TIDO ASSINATURA NA CONTA!",
+            "ABRA TICKET E ENVIE SEU EMAIL/SENHA (OU APENAS PEÇA O LOGIN) OBS: NÃO PODE TER TIDO ASSINATURA NA CONTA!",
+            "ABRA TICKET E ENVIE SEU EMAIL/SENHA (OU APENAS PEÇA O LOGIN) OBS: NÃO PODE TER TIDO ASSINATURA NA CONTA!"
+        ],
+        "notificationUsers": {},
+        "creationData": "2024-03-31T19:12:15.270Z",
+        "msgLocalization": {
+            "channelId": "1227369051680931962",
+            "messageId": "1227372800168296518"
+        },
+        "incomeTotal": 17.5,
+        "sellsTotal": 1
+    },
+    "ticket": {
+        "id": "ticket",
+        "name": "Não configurado(a).",
+        "description": "Não configurado(a).",
+        "thumbUrl": "none",
+        "bannerUrl": "none",
+        "color": "none",
+        "price": "10.00",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [],
+        "notificationUsers": {},
+        "creationData": "2024-04-01T17:13:19.771Z",
+        "msgLocalization": {
+            "channelId": "1218769595050098688",
+            "messageId": "1224406256824094811"
+        }
+    },
+    "nubank": {
+        "id": "nubank",
+        "name": "NUBANK FAKE",
+        "description": "✅ GERA COMPROVANTES FAKES \n✅ SALDO FAKE\n✅ INTERFACE SEMELHANTE",
+        "thumbUrl": "none",
+        "bannerUrl": "https://media.discordapp.net/attachments/1218769588150468648/1225135702162014218/anBn.png?ex=66200789&is=660d9289&hm=43a30a63b98c6e5c8fd6c90851a7fd0c6b382d73d22669174d9d84743f397a7c&=&format=webp&quality=lossless&width=672&height=445",
+        "color": "none",
+        "price": "5.05",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [
+            "https://cdn.discordapp.com/attachments/1170073874659016734/1170582211297292338/nubank_fake.apk?ex=661b5d23&is=6608e823&hm=9341f866a8073d8dff688b8c5517d5223bb884186d49342ba81035ac52fc6cb2&",
+            "https://cdn.discordapp.com/attachments/1170073874659016734/1170582211297292338/nubank_fake.apk?ex=661b5d23&is=6608e823&hm=9341f866a8073d8dff688b8c5517d5223bb884186d49342ba81035ac52fc6cb2&",
+            "https://cdn.discordapp.com/attachments/1170073874659016734/1170582211297292338/nubank_fake.apk?ex=661b5d23&is=6608e823&hm=9341f866a8073d8dff688b8c5517d5223bb884186d49342ba81035ac52fc6cb2&",
+            "https://cdn.discordapp.com/attachments/1170073874659016734/1170582211297292338/nubank_fake.apk?ex=661b5d23&is=6608e823&hm=9341f866a8073d8dff688b8c5517d5223bb884186d49342ba81035ac52fc6cb2&",
+            "https://cdn.discordapp.com/attachments/1170073874659016734/1170582211297292338/nubank_fake.apk?ex=661b5d23&is=6608e823&hm=9341f866a8073d8dff688b8c5517d5223bb884186d49342ba81035ac52fc6cb2&",
+            "https://cdn.discordapp.com/attachments/1170073874659016734/1170582211297292338/nubank_fake.apk?ex=661b5d23&is=6608e823&hm=9341f866a8073d8dff688b8c5517d5223bb884186d49342ba81035ac52fc6cb2&",
+            "https://cdn.discordapp.com/attachments/1170073874659016734/1170582211297292338/nubank_fake.apk?ex=661b5d23&is=6608e823&hm=9341f866a8073d8dff688b8c5517d5223bb884186d49342ba81035ac52fc6cb2&",
+            "https://cdn.discordapp.com/attachments/1170073874659016734/1170582211297292338/nubank_fake.apk?ex=661b5d23&is=6608e823&hm=9341f866a8073d8dff688b8c5517d5223bb884186d49342ba81035ac52fc6cb2&",
+            "https://cdn.discordapp.com/attachments/1170073874659016734/1170582211297292338/nubank_fake.apk?ex=661b5d23&is=6608e823&hm=9341f866a8073d8dff688b8c5517d5223bb884186d49342ba81035ac52fc6cb2&",
+            "https://cdn.discordapp.com/attachments/1170073874659016734/1170582211297292338/nubank_fake.apk?ex=661b5d23&is=6608e823&hm=9341f866a8073d8dff688b8c5517d5223bb884186d49342ba81035ac52fc6cb2&",
+            "https://cdn.discordapp.com/attachments/1170073874659016734/1170582211297292338/nubank_fake.apk?ex=661b5d23&is=6608e823&hm=9341f866a8073d8dff688b8c5517d5223bb884186d49342ba81035ac52fc6cb2&"
+        ],
+        "notificationUsers": {},
+        "creationData": "2024-04-03T16:59:18.482Z",
+        "msgLocalization": {
+            "channelId": "1218769675467620384",
+            "messageId": "1225136426765652121"
+        },
+        "incomeTotal": 5.05,
+        "sellsTotal": 1
+    },
+    "gift": {
+        "id": "gift",
+        "name": "NITRO GAMING GIFT",
+        "description": "✅ NITRO GIFT GAMING + 2 BOOST\n✅ FUNCIONA EM CONTAS QUE  JÁ TIVERAM NITRO\n✅ RISCO DE QUEDA",
+        "thumbUrl": "none",
+        "bannerUrl": "https://media.discordapp.net/attachments/1218769588150468648/1220476442144542782/Gaming.png?ex=66184ec3&is=6605d9c3&hm=dc1352773a7fa32bb1336161dda6ade0a44f9590983925ea4245a170bc3a7540&=&format=webp&quality=lossless",
+        "color": "none",
+        "price": "16.16",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [],
+        "notificationUsers": {
+            "1029383686157766656": "1029383686157766656",
+            "1101869442922725457": "1101869442922725457"
+        },
+        "creationData": "2024-04-03T17:17:26.190Z",
+        "msgLocalization": {
+            "channelId": "1218769650922426409",
+            "messageId": "1225132543318163644"
+        },
+        "incomeTotal": 45.45,
+        "sellsTotal": 3
+    },
+    "mp": {
+        "id": "mp",
+        "name": "MERCADO PAGO FAKE",
+        "description": "Não configurado(a).",
+        "thumbUrl": "none",
+        "bannerUrl": "none",
+        "color": "none",
+        "price": "10.00",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [],
+        "notificationUsers": {},
+        "creationData": "2024-04-03T18:03:07.532Z",
+        "msgLocalization": {
+            "channelId": "1218769595050098688",
+            "messageId": "1225143563671703652"
+        }
+    },
+    "primevideo": {
+        "id": "primevideo",
+        "name": "PRIME VIDEO - 30d",
+        "description": "✅ GARANTO 30d\n✅ DIRETAMENTE NO SEU EMAIL\n✅ NOS ENVIE UM EMAIL QUE NUNCA TEVE ASSINA",
+        "thumbUrl": "none",
+        "bannerUrl": "https://cdn.discordapp.com/attachments/1218769588150468648/1227366458741227592/Picsart_23-12-03_22-42-10-390.jpg?ex=66282517&is=6615b017&hm=0937ca17e08e4f2d71c4bcc25c77ab7a94503b8ea5e8ffef15e3233d5b12bcec&",
+        "color": "none",
+        "price": "7.0",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [
+            "ABRA TICKET E ENVIE SEU EMAIL/SENHA OBS: NÃO PODE TER TIDO ASSINATURA NA CONTA!",
+            "ABRA TICKET E ENVIE SEU EMAIL/SENHA OBS: NÃO PODE TER TIDO ASSINATURA NA CONTA!",
+            "ABRA TICKET E ENVIE SEU EMAIL/SENHA OBS: NÃO PODE TER TIDO ASSINATURA NA CONTA!",
+            "ABRA TICKET E ENVIE SEU EMAIL/SENHA OBS: NÃO PODE TER TIDO ASSINATURA NA CONTA!",
+            "ABRA TICKET E ENVIE SEU EMAIL/SENHA OBS: NÃO PODE TER TIDO ASSINATURA NA CONTA!",
+            "ABRA TICKET E ENVIE SEU EMAIL/SENHA OBS: NÃO PODE TER TIDO ASSINATURA NA CONTA!",
+            "ABRA TICKET E ENVIE SEU EMAIL/SENHA OBS: NÃO PODE TER TIDO ASSINATURA NA CONTA!",
+            "ABRA TICKET E ENVIE SEU EMAIL/SENHA OBS: NÃO PODE TER TIDO ASSINATURA NA CONTA!",
+            "ABRA TICKET E ENVIE SEU EMAIL/SENHA OBS: NÃO PODE TER TIDO ASSINATURA NA CONTA!"
+        ],
+        "notificationUsers": {},
+        "creationData": "2024-04-09T21:12:20.088Z",
+        "msgLocalization": {
+            "channelId": "1227365329387393045",
+            "messageId": "1227367127099637861"
+        },
+        "incomeTotal": 7,
+        "sellsTotal": 1
+    },
+    "steamkey": {
+        "id": "steamkey",
+        "name": "STEAM KEY PLATINA",
+        "description": "✅ PODE CONTEM JOGOS REPETIDOS\n✅ SEM JOGOS +18\n✅ TODOS CODIGOS FUNCIONANDO\n✅ 95% SÃO JOG0S PAG0S E NÃO TEM NENHUMA DLC.",
+        "thumbUrl": "none",
+        "bannerUrl": "https://media.discordapp.net/attachments/1218769588150468648/1228951312151085161/Picsart_24-03-18_21-58-19-895.jpg?ex=662de919&is=661b7419&hm=c024af323fdbe2ea7ee5d5b94de0bdaec6550b1386e6091fc6b823cf5f6f7416&",
+        "color": "none",
+        "price": "1.49",
+        "role": "none",
+        "useCoupon": true,
+        "stock": [
+            "Tax Fugitive | T5CTE-4L7QZ-H8D4K",
+            "Twizzle Puzzle: Reptiles | 6Q3BA-V46JH-LXMZ7",
+            "The Reflection | 7WY29-P36V3-5DKQY",
+            "Color Splash: Predators | P4MAL-ILJGB-ANXIW"
+        ],
+        "notificationUsers": {},
+        "creationData": "2024-04-14T06:05:38.464Z",
+        "msgLocalization": {
+            "channelId": "1218769683855966348",
+            "messageId": "1228951497270624307"
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "03/29/2024": {
+        "requests": 3,
+        "receipts": 7.02
+    },
+    "03/30/2024": {
+        "requests": 1,
+        "receipts": 0.5
+    },
+    "04/01/2024": {
+        "requests": 2,
+        "receipts": 19.52
+    },
+    "04/02/2024": {
+        "requests": 4,
+        "receipts": 8.01
+    },
+    "04/03/2024": {
+        "requests": 3,
+        "receipts": 19.69
+    },
+    "08/04/2024": {
+        "requests": 1,
+        "receipts": 1.51
+    },
+    "09/04/2024": {
+        "requests": 2,
+        "receipts": 3.5300000000000002
+    },
+    "10/04/2024": {
+        "requests": 3,
+        "receipts": 9.03
+    },
+    "11/04/2024": {
+        "requests": 7,
+        "receipts": 17.6
+    },
+    "12/04/2024": {
+        "requests": 3,
+        "receipts": 23.66
+    },
+    "13/04/2024": {
+        "requests": 3,
+        "receipts": 20.140000000000004
+    },
+    "14/04/2024": {
+        "requests": 3,
+        "receipts": 12.51
+    }
+}

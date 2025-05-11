@@ -1,0 +1,104 @@
+{
+    "1175227522619822080": {
+        "ordersTotal": 3,
+        "paidsTotal": 19.53,
+        "lastPurchase": "2024-04-10T23:10:46.686Z",
+        "balance": 82.5
+    },
+    "1195305031637938177": {
+        "ordersTotal": 2,
+        "paidsTotal": 7.01,
+        "lastPurchase": "2024-03-29T19:32:29.236Z"
+    },
+    "528181646558756904": {
+        "ordersTotal": 1,
+        "paidsTotal": 0.5,
+        "lastPurchase": "2024-03-30T12:49:34.306Z"
+    },
+    "1143595193522716762": {
+        "ordersTotal": 1,
+        "paidsTotal": 2.02,
+        "lastPurchase": "2024-04-01T00:34:18.597Z"
+    },
+    "610829683197739012": {
+        "ordersTotal": 1,
+        "paidsTotal": 0.5,
+        "lastPurchase": "2024-04-02T02:37:15.803Z"
+    },
+    "650132440920358915": {
+        "ordersTotal": 5,
+        "paidsTotal": 30.180000000000003,
+        "lastPurchase": "2024-04-11T16:17:24.315Z",
+        "balance": 0
+    },
+    "326095788549603328": {
+        "ordersTotal": 1,
+        "paidsTotal": 0.5,
+        "lastPurchase": "2024-04-02T23:39:36.568Z"
+    },
+    "613870606290649139": {
+        "ordersTotal": 2,
+        "paidsTotal": 3.5300000000000002,
+        "lastPurchase": "2024-04-03T16:08:16.913Z"
+    },
+    "1211817164538118195": {
+        "ordersTotal": 1,
+        "paidsTotal": 1.51,
+        "lastPurchase": "2024-04-08T01:32:09.517Z"
+    },
+    "678670024109719572": {
+        "ordersTotal": 2,
+        "paidsTotal": 3.5300000000000002,
+        "lastPurchase": "2024-04-09T17:17:17.351Z"
+    },
+    "973657163216072715": {
+        "ordersTotal": 2,
+        "paidsTotal": 7.01,
+        "lastPurchase": "2024-04-10T00:06:42.548Z"
+    },
+    "600500616535474226": {
+        "ordersTotal": 1,
+        "paidsTotal": 5.05,
+        "lastPurchase": "2024-04-11T01:00:21.088Z"
+    },
+    "1072626700841664543": {
+        "ordersTotal": 2,
+        "paidsTotal": 2.01,
+        "lastPurchase": "2024-04-11T16:57:50.990Z"
+    },
+    "1228040039179616337": {
+        "ordersTotal": 2,
+        "paidsTotal": 3.5300000000000002,
+        "lastPurchase": "2024-04-11T18:25:55.032Z"
+    },
+    "1029383686157766656": {
+        "ordersTotal": 1,
+        "paidsTotal": 16.16,
+        "lastPurchase": "2024-04-12T14:21:01.790Z"
+    },
+    "1032572068790804540": {
+        "ordersTotal": 2,
+        "paidsTotal": 7.5,
+        "lastPurchase": "2024-04-12T23:35:09.679Z"
+    },
+    "666612710808485908": {
+        "ordersTotal": 1,
+        "paidsTotal": 13.13,
+        "lastPurchase": "2024-04-13T04:22:44.503Z"
+    },
+    "969970345090109471": {
+        "ordersTotal": 2,
+        "paidsTotal": 7.01,
+        "lastPurchase": "2024-04-13T22:16:28.546Z"
+    },
+    "402966902831448065": {
+        "ordersTotal": 2,
+        "paidsTotal": 7.01,
+        "lastPurchase": "2024-04-14T05:23:22.756Z"
+    },
+    "928482047876534303": {
+        "ordersTotal": 1,
+        "paidsTotal": 5.5,
+        "lastPurchase": "2024-04-14T07:43:57.122Z"
+    }
+}

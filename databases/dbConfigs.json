@@ -1,0 +1,40 @@
+{
+    "ownerId": "none",
+    "channels": {
+        "channelLogsPrivId": "1223107613877862493",
+        "channelLogsPublicId": "1218774607545241670",
+        "categoryCartsId": "1218769547977560125"
+    },
+    "roles": {
+        "roleCustomerId": "1218769557406093423"
+    },
+    "images": {
+        "bannerUrl": "https://media.discordapp.net/attachments/1218769588150468648/1219328948551417856/standard.gif?ex=66142213&is=6601ad13&hm=25f1694bc05c4014ba68410e491833d496827bbcb9d43108b8e47b4c0e0e5641&=",
+        "thumbUrl": "https://media.discordapp.net/attachments/1218769588150468648/1221562545710563358/avatar.png?ex=661307c6&is=660092c6&hm=17fbffb3f08a91e15161d1368c00346df73d6fab12e2e44b360950d18fbb0d5d&=&format=webp&quality=lossless"
+    },
+    "embeds": {
+        "color": "#6a329f"
+    },
+    "payments": {
+        "mpAcessToken": "APP_USR-5413676493899945-041415-90742bbe702cfc6861b186a748dbc462-1528778641",
+        "paymentsOptions": {
+            "pix": true,
+            "balance": true,
+            "site": true,
+            "semiAuto": false
+        }
+    },
+    "balance": {
+        "bonusDeposit": 0,
+        "minimumDeposit": 5
+    },
+    "semiAuto": {
+        "pix": {
+            "key": "none",
+            "keyType": "none"
+        },
+        "qrCode": "none"
+    },
+    "termsPurchase": "**Termos:**\n\n**Pronta entrega;**\nA maioria dos nossos produtos são entregues na mesma hora, porém fique ciente teremos o prazo de 72 horas para a entrega ser feita.\n\n**Entrega do produto;**\nNão entregamos o produto antes do pagamento, somente após.\n\n**Garantia;**\nAntes de comprar, verifique se o produto tem garantia, pois não faremos a devolução do mesmo se cair, então por favor, fique ciente.\n\n**Reembolso;**\n\n・**Não entrega** dentro do prazo: Se o produto não for entregue dentro do prazo de 72 horas após a compra, o cliente tem direito a um reembolso total do valor pago.\n\n・**Produto indisponível**: Caso o produto esteja indisponível após a compra ser confirmada, o cliente terá direito a um reembolso total do valor pago.\n\n・**Garantia não cumprida**: Se o produto adquirido estiver dentro do período de garantia e não estiver funcionando conforme especificado, o cliente pode solicitar um reembolso ou uma troca, conforme as políticas de garantia aplicáveis.\n\n**Ao prosseguir com a compra, o cliente estará concordando com estes termos de reembolso. Para mais informações ou para solicitar um reembolso, entre em contato com nosso serviço de atendimento ao cliente.**\n\n**Agradecemos pela compreensão e estamos à disposição para quaisquer dúvidas ou preocupações que possa ter. :hugging: **",
+    "newSales": true
+}
